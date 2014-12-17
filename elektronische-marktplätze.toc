@@ -18,6 +18,4 @@
 \contentsline {subsection}{\numberline {6.1}eBay}{12}
 \contentsline {subsection}{\numberline {6.2}Amazon}{13}
 \contentsline {subsection}{\numberline {6.3}Alibaba}{14}
-\contentsline {section}{\numberline {7}Quellenangabe}{15}
-\contentsline {subsection}{\numberline {7.1}Inhalt}{15}
-\contentsline {subsection}{\numberline {7.2}Bilder}{15}
+\contentsline {subsection}{\numberline {6.4}Craigslist}{15}
