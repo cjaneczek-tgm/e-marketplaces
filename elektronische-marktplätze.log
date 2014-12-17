@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.8)  10 DEC 2014 16:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.8)  17 DEC 2014 13:17
 entering extended mode
 **elektronische-marktplätze.tex
 (C:\Users\Chris\Desktop\git\e-marketplaces\elektronische-marktplätze.tex
@@ -673,6 +673,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--186
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
+
+ []
+
 <mercateo.png, id=48, 552.26324pt x 504.6855pt>
 File: mercateo.png Graphic file (type png)
  <use mercateo.png>
@@ -705,81 +710,112 @@ Underfull \hbox (badness 3229) in paragraph at lines 209--209
  []
 
 [10 <C:/Users/Chris/Desktop/git/e-marketplaces/ebp.png>]
-Overfull \hbox (10.22984pt too wide) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+Overfull \hbox (0.84117pt too wide) in paragraph at lines 214--217
+\OT1/cmr/m/n/10.95 Ein Multi-Vendor Cat-a-logue kann im wesentlichen als zen-tr
+ales Por-tal von de-nen im Kat-a-log definierten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--217
+
+ []
+
+[11]
+Overfull \hbox (10.22984pt too wide) in paragraph at lines 229--230
 \OT1/cmr/m/n/10.95 sel-ten um kom-plexe und beschrei-bungsin-ten-sive Pro-dukte
 (zum Beispiel im An-la-gen-bau) bzw. aufwendige
  []
 
-<ebay.png, id=60, 594.42075pt x 69.861pt>
+<ebay.png, id=63, 594.42075pt x 69.861pt>
 File: ebay.png Graphic file (type png)
  <use ebay.png>
-Package pdftex.def Info: ebay.png used on input line 225.
+Package pdftex.def Info: ebay.png used on input line 239.
 (pdftex.def)             Requested size: 512.1496pt x 60.19547pt.
 
-Overfull \hbox (28.45273pt too wide) in paragraph at lines 225--226
+Overfull \hbox (28.45273pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
 
-Overfull \hbox (47.04417pt too wide) in paragraph at lines 229--230
+Overfull \hbox (47.04417pt too wide) in paragraph at lines 243--244
 \OT1/cmr/m/n/10.95 eBays Han-del-splat-tform be-sitzt eine hor-i-zon-tale Struk
 -tur, welche wie der Name schon sagt, branchenubergreifend
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--230
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--233
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--233
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Underfull \hbox (badness 10000) in paragraph at lines 251--255
 
  []
 
-[11 <C:/Users/Chris/Desktop/git/e-marketplaces/ebay.png>]
-Overfull \hbox (35.09045pt too wide) in paragraph at lines 253--257
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--255
+
+ []
+
+[12 <C:/Users/Chris/Desktop/git/e-marketplaces/ebay.png>]
+Overfull \hbox (35.09045pt too wide) in paragraph at lines 272--276
 \OT1/cmr/m/n/10.95 http://www.itwissen.info/definition/lexikon/Elektronischer-M
 arktplatz-EM-electronic-marketplace-EM.html 
  []
 
 
-Overfull \hbox (35.09045pt too wide) in paragraph at lines 253--257
+Overfull \hbox (35.09045pt too wide) in paragraph at lines 272--276
 \OT1/cmr/m/n/10.95 http://www.itwissen.info/definition/lexikon/Elektronischer-M
 arktplatz-EM-electronic-marketplace-EM.html 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--257
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
 
  []
 
 
-Overfull \hbox (30.64961pt too wide) in paragraph at lines 258--265
+Overfull \hbox (30.64961pt too wide) in paragraph at lines 277--284
 \OT1/cmr/m/n/10.95 http://www.itwissen.info/bilder/anbieter-kunden-und-funktion
 en-von-elektronischen-marktplaetzen-em.png 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--265
+Underfull \hbox (badness 10000) in paragraph at lines 277--284
 
  []
 
-[12] (C:\Users\Chris\Desktop\git\e-marketplaces\elektronische-marktplätze.aux)
+[13] (C:\Users\Chris\Desktop\git\e-marketplaces\elektronische-marktplätze.aux)
  ) 
 Here is how much of TeX's memory you used:
  3028 strings out of 493921
@@ -798,9 +834,9 @@ m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on elektronische-marktplätze.pdf (12 pages, 1167597 bytes).
+Output written on elektronische-marktplätze.pdf (13 pages, 1196439 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
